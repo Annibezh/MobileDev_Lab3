@@ -4,7 +4,10 @@ I've faced with difficulties in reading nested json. Also I had some problems wi
 
 # Result images:
 When movie's poster exists
-![alt text](https://github.com/Annibezh/MobileDev_Lab3/blob/main/movie_poster.png)
-
+<p align="center">
+  <img src="https://github.com/Annibezh/MobileDev_Lab3/blob/main/movie_poster.png" width="200"
+</p>
 Movie's poster not found
-![alt text](https://github.com/Annibezh/MobileDev_Lab3/blob/main/not_found.png)
+  <p align="center">
+  <img src="https://github.com/Annibezh/MobileDev_Lab3/blob/main/not_found.png" width="200"
+</p>
