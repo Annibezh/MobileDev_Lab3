@@ -7,7 +7,7 @@ When movie's poster exists
 <p align="left">
   <img src="https://github.com/Annibezh/MobileDev_Lab3/blob/main/movie_poster.png" width="200"
 </p>
-Movie's poster not found
+<p> Movie's poster not found </p>
 <p align="left">
   <img src="https://github.com/Annibezh/MobileDev_Lab3/blob/main/not_found.png" width="200"
 </p>
